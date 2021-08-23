@@ -1,5 +1,8 @@
 # tailwind-food-app
 
+tailwindcss で遊ぶために作ったリポジトリです。
+トップページのみ実装しましたが、認証や各種ページへの導線の誘導先ページは実装してません。
+
 This repository is to play with tailwindcss.
 I recommend installing tailwind intelliSense which is the extension for tailwindcss.
 
