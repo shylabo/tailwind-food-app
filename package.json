@@ -1,0 +1,24 @@
+{
+  "name": "tailwind-food-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build -i src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shylabo/tailwind-food-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shylabo/tailwind-food-app/issues"
+  },
+  "homepage": "https://github.com/shylabo/tailwind-food-app#readme",
+  "dependencies": {
+    "live-server": "^1.2.1",
+    "tailwindcss": "^2.2.7"
+  }
+}
